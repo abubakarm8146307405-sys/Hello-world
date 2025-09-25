@@ -1,4 +1,4 @@
-# Hello-world
+# Hello-world .
 My first repository on Github
 # each line is a file pattern followered by one or more owners 
 # this owners would be the default owner of everything 
